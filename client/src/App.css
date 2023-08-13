@@ -1,0 +1,192 @@
+/* custom styles used to style various elements  */
+
+.bg-custom-blue {
+  background-color: #9fc5f8;
+  color: black;
+}
+
+.bg-custom-yellow {
+  background-color: #ffe599;
+  color: black;
+}
+
+.bg-custom-green {
+  background-color: #b6d7a8;
+  color: black;
+}
+
+.bg-custom-white {
+  background-color: white;
+  color: black;
+}
+
+.custom-styling-backlog-header {
+  /* custom styling for the Backlog header container  */
+  height: 80px;
+  border-top-width: 2px;
+  border-right-width: 1px;
+  border-bottom-width: 2px;
+  border-left-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+.custom-styling-btl {
+  /* custom styling for the BacklogTasks container  */
+  height: 400px;
+  overflow-y: auto;
+  max-height: 400px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+.custom-styling-inprogress-header {
+  /* custom styling for the In Progress header container  */
+  height: 80px;
+  border-top-width: 2px;
+  border-right-width: 1px;
+  border-bottom-width: 2px;
+  border-left-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+.custom-styling-iptl {
+  /* custom styling for the InProgressTasks container  */
+  height: 400px;
+  overflow-y: auto;
+  max-height: 400px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+.custom-styling-completed-header {
+  /* custom styling for the Completed header container  */
+  height: 80px;
+  border-top-width: 2px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+  border-left-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+.custom-styling-ctl {
+  /* custom styling for the CompletedTasks container  */
+  height: 400px;
+  overflow-y: auto;
+  max-height: 400px;
+  border-top-width: 1px;
+  border-right-width: 2px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+.custom-styling-bottombar {
+  /* custom styling for the bottom div container containing the button  */
+  height: 60px;
+  border-top-width: 1px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+  border-left-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+.custom-styling-ul-items {
+  /* custom styling for the un ordered list width  */
+  width: 80%;
+  margin: 0 auto;
+}
+
+.custom-styling-li-items {
+  /* custom styling for the individual list items  */
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+.custom-styling-btn-container-width {
+  /* custom styling for the div wrapping the buttons in each list item  */
+  width: 80%;
+  margin: 0 auto;
+}
+
+.custom-styling-list-btns {
+  /* custom styling for the buttons in each list item  */
+  width: 100%;
+  border-radius: 8px;
+  border: none;
+}
+
+.custom-btn-color-backlog {
+  /* custom color styling for the backlog tasks buttons  */
+  background-color: #ffe599;
+  color: black;
+}
+
+.custom-btn-color-inprogress {
+  /* custom color styling for the in progress tasks buttons  */
+  background-color: #b6d7a8;
+  color: black;
+}
+
+.custom-btn-color-completed {
+  /* custom color styling for the completed tasks buttons  */
+  background-color: #ea9999;
+  color: black;
+}
+
+.custom-btn-color-add {
+  /* custom styling for the add new project button  */
+  background-color: #9fc5f8;
+  border-radius: 8px;
+  border: none;
+  text-decoration: none;
+}
+
+.custom-styling-link {
+  /* custom styling for the add new project link */
+  text-decoration: none;
+  color: black;
+}
+
+.custom-styling-addbtn-container-width {
+  /* custom styling for the div wrapping the add new project button  */
+  width: 87%;
+  margin: 0 auto;
+}
+
+.custom-styling-addbtn-width {
+  /* custom styling for the div wrapping the buttons in each list item  */
+  width: 22%;
+  margin: 0 auto;
+}
+
+.custom-styling-planbtn-width {
+  /* custom styling for the div wrapping the plan project btn in the Create Project Page  */
+  width: 80%;
+  margin: 0 auto;
+}
+
+.custom-styling-planbtn {
+  /* custom styling for the plan project btn in the Create Project Page  */
+  background-color: #9fc5f8;
+  color: black;
+  width: 80%;
+}
+
+.custom-label-bold {
+  /* custom styling for the label texts  */
+  font-weight: bold;
+}
